@@ -1,2 +1,4 @@
-# imersao-dev-meu-portifolio
-Todos meus projetos feitos na Imersão Dev
+# Certifiado Imersão Dev
+
+
+Esses foram meus primeiros projetos com dev, aprendendo a mexer em JS, CSS e HTML
